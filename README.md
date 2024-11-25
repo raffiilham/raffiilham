@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Raffi Ilham Maulana</h1>
-<img src="https://media.giphy.com/media/IpLhYGTFPpMxW/source.gif" alt="Deadpool GIF" align="center" width="1000" />
 <h3 align="center">front end focusing</h3>
 
 - 📫 How to reach me **raffiilham47@gmail.com**
